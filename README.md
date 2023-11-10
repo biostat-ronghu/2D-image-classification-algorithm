@@ -10,6 +10,6 @@ First, one-fifth of the original dataset is used as the test dataset. Then, the 
 
 
 ## References:
- https://pytorch.apachecn.org/
- https://blog.csdn.net/qimo601/article/details/126948204
- https://githubfast.com/MRZHANG-1997/Python/blob/main/%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb
+1. https://pytorch.apachecn.org/
+2. https://blog.csdn.net/qimo601/article/details/126948204
+3. https://githubfast.com/MRZHANG-1997/Python/blob/main/%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb
