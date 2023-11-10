@@ -3,7 +3,7 @@ The purpose of this project is to strengthen the understanding of the working pr
 
 DataSet:
 Animals-10 ( available at kaggle.com )
-The dataset Animals-10 is divided into training and test datasets in a ratio of 4:1.
+First, one-fifth of the original dataset is used as the test dataset. Then, the remaining part of the data is divided into training and validation datasets in a ratio of 4:1.
 
 Description of files:
 Files such as "XXXXX_train.py" are executable files that are used to train the corresponding models.
