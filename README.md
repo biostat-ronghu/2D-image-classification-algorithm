@@ -3,7 +3,11 @@ The purpose of this project is to strengthen the understanding of the working pr
 
 DataSet:
 Animals-10 ( available at kaggle.com )
-The dataset Animals-10 is
+The dataset Animals-10 is divided into training and test datasets in a ratio of 4:1.
 
+Description of files:
 Files such as "XXXXX_train.py" are executable files that are used to train the corresponding models.
 Files such as "XXXXX_test.py" are executable files that are used to evaluate the corresponding models on test dataset.
+
+
+Reference:
