@@ -10,4 +10,9 @@ Files such as "XXXXX_train.py" are executable files that are used to train the c
 Files such as "XXXXX_test.py" are executable files that are used to evaluate the corresponding models on test dataset.
 
 
-Reference:
+References:
+https://pytorch.apachecn.org/
+
+https://blog.csdn.net/qimo601/article/details/126948204
+
+https://github.com/MRZHANG-1997/Python/blob/main/%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.ipynb
